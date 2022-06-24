@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MicheleKoi
 - 👀 I’m interested in coding and art
 - 🌱 I’m currently learning Salesforce/Apex
-- 💞️ I’m looking to collaborate on Salesforce newbies
+- 💞️ I’m looking to collaborate on: I don't know, yet
 - 📫 How to reach me: I'm @michelekoi everywhere, youtube, twiiter and instagram
 
 <!---
